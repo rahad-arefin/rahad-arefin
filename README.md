@@ -8,17 +8,17 @@ I work where paid media, marketing technology and AI meet: Google Ads, Meta Ads,
 
 ### 🔗 Find me
 
-- **Portfolio:** [rahadportfolio.vercel.app](https://rahadportfolio.vercel.app)
+- **Portfolio:** [rahadarefin.com](https://rahadarefin.com)
 - **LinkedIn:** [linkedin.com/in/rahad-arefin](https://linkedin.com/in/rahad-arefin)
-- **Case studies:** [11 growth case studies](https://rahadportfolio.vercel.app/#work)
+- **Case studies:** [11 growth case studies](https://rahadarefin.com/#work)
 
 ### ✍️ Latest insights
 
-- [The first 90 days as Head of Digital: a practical playbook](https://rahadportfolio.vercel.app/insights/first-90-days-head-of-digital.html)
-- [Stop judging paid media by CPL: the cost-per-SAL framework](https://rahadportfolio.vercel.app/insights/cost-per-sal-framework.html)
-- [How I audit a Google Ads account in 90 minutes](https://rahadportfolio.vercel.app/insights/google-ads-audit-90-minutes.html)
-- [The 80/20 budget rule for paid media](https://rahadportfolio.vercel.app/insights/80-20-paid-media-budget-rule.html)
-- [How I built a zero-cost AI reporting pipeline for Google Ads and Meta Ads](https://rahadportfolio.vercel.app/insights/zero-cost-ai-reporting-pipeline.html)
+- [The first 90 days as Head of Digital: a practical playbook](https://rahadarefin.com/insights/first-90-days-head-of-digital.html)
+- [Stop judging paid media by CPL: the cost-per-SAL framework](https://rahadarefin.com/insights/cost-per-sal-framework.html)
+- [How I audit a Google Ads account in 90 minutes](https://rahadarefin.com/insights/google-ads-audit-90-minutes.html)
+- [The 80/20 budget rule for paid media](https://rahadarefin.com/insights/80-20-paid-media-budget-rule.html)
+- [How I built a zero-cost AI reporting pipeline for Google Ads and Meta Ads](https://rahadarefin.com/insights/zero-cost-ai-reporting-pipeline.html)
 
 ### 📈 Highlights
 
